@@ -12,13 +12,6 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    posts_number: 3
-    col_number: three
-    actions: []
-    type: section_posts
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
